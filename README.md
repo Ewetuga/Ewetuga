@@ -2,7 +2,7 @@
 - 👀 I’m interested in discovering new things
 - 🌱 I’m currently learning front end development 
 - 💞️ I’m looking to collaborate on various projects 
-- 📫 How to reach me ...
+- 📫 How to reach me via email : tobilobamary9@gamil.com
 
 <!---
 Ewetuga/Ewetuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
