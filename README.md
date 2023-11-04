@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ewetuga
 - 👀 I’m interested in discovering new things
-- 🌱 I’m currently learning front end development 
+- 🌱 I’m currently learning front end development
+-💻 I'm skilled with HTML,CSS AND JAVASCRIPT
 - 💞️ I’m looking to collaborate on various projects 
 - 📫 How to reach me via email : tobilobamary9@gamil.com
 
